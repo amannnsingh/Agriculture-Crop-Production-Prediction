@@ -1,2 +1,2 @@
 # Agriculture-Crop-Production-Prediction
-Agriculture crop prediction using linear regression naive bayes svm random forest
+Agriculture crop prediction using **Linear Regression, Naïve Bayes, SVM, and Random Forest** helps farmers make informed decisions by analyzing environmental factors like soil type, temperature, rainfall, and pH levels. **Linear Regression** predicts crop yield based on continuous variables, while **Naïve Bayes** classifies crops based on probabilistic distributions. **SVM** efficiently classifies crops by finding the optimal hyperplane, and **Random Forest** enhances accuracy by combining multiple decision trees. These models enable data-driven agriculture, improving productivity, resource management, and sustainability.
